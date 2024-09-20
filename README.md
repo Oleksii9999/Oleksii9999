@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Oleksii9999/Oleksii9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My slogan 🏹
+_I can and I will. Happiness is a choice._
 
-Here are some ideas to get you started:
+# Testomonial from clients 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐⭐⭐⭐⭐
+Oleksii brings a unique blend of technical expertise and interpersonal skills to every project. His collaborative spirit and problem-solving abilities make working with him a pleasure. I look forward to seeing his continued success.
+**CTO, Michael Brown**
+
+⭐⭐⭐⭐⭐
+Oleksii's ability to grasp complex concepts quickly and translate them into effective solutions is truly commendable. His dedication and passion for programming inspire those around him. I wholeheartedly endorse him.
+**Sarah Johnson, Lead Developer**
+
