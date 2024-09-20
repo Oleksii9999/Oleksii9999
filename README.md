@@ -2,7 +2,7 @@
 # My slogan 🏹
 _I can and I will. Happiness is a choice._
 
-# Testomonials from clients 🌟
+# Testimonials from clients 🌟
 
 ⭐⭐⭐⭐⭐
 Oleksii brings a unique blend of technical expertise and interpersonal skills to every project. His collaborative spirit and problem-solving abilities make working with him a pleasure. I look forward to seeing his continued success.
