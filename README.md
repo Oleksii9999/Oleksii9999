@@ -1,6 +1,9 @@
 
 # My slogan 🏹
 _I can and I will. Happiness is a choice._
+![image](https://github.com/user-attachments/assets/05b35c41-5cd1-455d-a3e3-d6042fa9c559)
+![image](https://github.com/user-attachments/assets/d30b8682-e28d-43c9-bdbf-1e33197cf3c7)
+
 
 # Testimonials from clients 🌟
 
